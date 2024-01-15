@@ -1,4 +1,3 @@
-![Screenshot 2024-01-15 074419](https://github.com/1dev-hridoy/Engineering-College-With-Bootstrap-5/assets/154232641/fce8134e-3e58-44ff-965d-5229c834d426)
 # Engineering College Website with Bootstrap 5
 
 Welcome to the Engineering College Website repository! This project is a responsive and feature-rich website created using Bootstrap 5, showcasing various sections like a slider, infinite text, about us, teachers, college map, and a footer. 
@@ -12,7 +11,7 @@ Welcome to the Engineering College Website repository! This project is a respons
 - [License](#license)
 
 ## Demo
-Check out the live demo of the website: [Engineering College Demo](https://1dev-hridoy.github.io/Engineering-College-With-Bootstrap-5/)
+Check out the live demo of the website: [Engineering College Demo]([https://1dev-hridoy.github.io/Engineering-College-With-Bootstrap-5/](https://engineering-college-with-bootstrap-5.vercel.app/))
 
 ## Features
 - **Responsive Design:** The website is designed to be accessible and visually appealing across various devices and screen sizes.
