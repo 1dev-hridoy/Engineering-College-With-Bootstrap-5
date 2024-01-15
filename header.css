@@ -1,0 +1,10 @@
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/assets/images/banner.jpg);
+    height: 300px;
+    width: 100%;
+    margin-top: 80px;
+    color: #fff;
+}
